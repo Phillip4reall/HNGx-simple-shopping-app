@@ -1,12 +1,16 @@
 # shopping_app
 
-A new Flutter project.
+A simple shopping app to display item,add item to cart and checkout
 
-## Getting Started
+## App features
 
-This project is a starting point for a Flutter application.
+1. splash screen
+2. mainscreen
+3. product list screen
+4. add to cart screen
+5. checkout screen
 
-A few resources to get you started if this is your first Flutter project:
+**Apperter.io link**
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
